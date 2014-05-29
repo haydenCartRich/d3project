@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>
+        D3 Test
+    </title>
+    <link rel="stylesheet" type="text/css" href="stylesheets/mainStyle.css">
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/rank.css">
+    <link rel="stylesheet" type="text/css" href="stylesheets/geo.css"> 
+    <link rel="stylesheet" type="text/css" href="stylesheets/prob.css">
+    <link rel="stylesheet" type="text/css" href="stylesheets/expl.css"> 
+    <script type="text/javascript" src="scripts/d3.min.js">
+    </script>
+    <script type="text/javascript" src="scripts/test.js">
+    </script>
+    <script type="text/javascript" src="scripts/moment.min.js">
+    </script>
+</head>
+
+<body onload="startTest()">
+    <ul>
+        <li id="header" class="button">
+            ANZ Championships
+        </li>
+        <li class="button imageButton selectedButton" id="rank" onClick="changeSelected(this);dispRank();">
+            Rankings
+        </li>
+        <li class="button imageButton" id="geo" onClick="changeSelected(this);dispGeo();">
+            Geographical Data
+        </li>
+        <li class="button imageButton" id="prob" onClick="changeSelected(this);dispProb();">
+            Predictions
+        </li>
+        <li class="button imageButton" id="expl" onClick="changeSelected(this);dispExpl();">
+            Explore Matches
+        </li>
+    </ul>
+</body>
+
+</html>
