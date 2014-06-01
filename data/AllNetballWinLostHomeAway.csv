@@ -1,0 +1,829 @@
+Season,Team,Result,HScore,AScore,Round,Date,OppositionTeam
+2008,Waikato Bay of Plenty Magic,WinHome,46,42,1,Monday 7 April,Adelaide Thunderbirds
+2008,West Coast Fever,LoseHome,41,54,2,Monday 14 April,Adelaide Thunderbirds
+2008,Melbourne Vixens,LoseHome,38,39,3,Sunday 20 April,Adelaide Thunderbirds
+2008,Queensland Firebirds,LoseHome,41,47,9,Monday 2 June,Adelaide Thunderbirds
+2008,Northern Mystics,LoseHome,47,48,11,Saturday 14 June,Adelaide Thunderbirds
+2008,New South Wales Swifts,WinHome,51,41,12,Monday 23 June,Adelaide Thunderbirds
+2008,Central Pulse,LoseHome,32,44,14,Monday 7 July,Adelaide Thunderbirds
+2008,Waikato Bay of Plenty Magic,WinHome,51,49,16,Monday 21 July,Adelaide Thunderbirds
+2008,Northern Mystics,LoseHome,44,48,1,Sunday 6 April,Canterbury Tactix
+2008,Southern Steel,LoseHome,48,51,6,Saturday 10 May,Canterbury Tactix
+2008,Central Pulse,LoseHome,50,55,7,Saturday 17 May,Canterbury Tactix
+2008,Northern Mystics,WinHome,50,46,9,Monday 2 June,Canterbury Tactix
+2008,Adelaide Thunderbirds,WinHome,61,41,10,Sunday 8 June,Canterbury Tactix
+2008,Queensland Firebirds,WinHome,50,36,12,Sunday 22 June,Canterbury Tactix
+2008,West Coast Fever,WinHome,50,44,13,Sunday 29 June,Canterbury Tactix
+2008,Waikato Bay of Plenty Magic,WinHome,69,44,14,Saturday 5 July,Canterbury Tactix
+2008,Queensland Firebirds,WinHome,56,28,3,Monday 21 April,Central Pulse
+2008,New South Wales Swifts,WinHome,59,30,4,Monday 28 April,Central Pulse
+2008,Waikato Bay of Plenty Magic,WinHome,54,37,5,Saturday 3 May,Central Pulse
+2008,Southern Steel,WinHome,41,29,9,Saturday 31 May,Central Pulse
+2008,West Coast Fever,LoseHome,0,0,10,Monday 9 June,Central Pulse
+2008,Canterbury Tactix,WinHome,50,49,11,Sunday 15 June,Central Pulse
+2008,Northern Mystics,WinHome,42,28,13,Saturday 28 June,Central Pulse
+2008,Central Pulse,LoseHome,33,50,1,Saturday 5 April,Melbourne Vixens
+2008,Canterbury Tactix,LoseHome,50,58,4,Monday 28 April,Melbourne Vixens
+2008,New South Wales Swifts,LoseHome,52,53,5,Monday 5 May,Melbourne Vixens
+2008,Adelaide Thunderbirds,LoseHome,46,52,7,Sunday 18 May,Melbourne Vixens
+2008,Queensland Firebirds,WinHome,60,51,8,Sunday 25 May,Melbourne Vixens
+2008,Southern Steel,WinHome,47,46,10,Saturday 7 June,Melbourne Vixens
+2008,West Coast Fever,LoseHome,48,54,12,Saturday 21 June,Melbourne Vixens
+2008,Adelaide Thunderbirds,WinHome,53,48,15,Monday 14 July,Melbourne Vixens
+2008,Canterbury Tactix,WinHome,50,44,2,Saturday 12 April,New South Wales Swifts
+2008,Queensland Firebirds,WinHome,66,52,6,Saturday 10 May,New South Wales Swifts
+2008,Adelaide Thunderbirds,LoseHome,44,50,8,Monday 26 May,New South Wales Swifts
+2008,Northern Mystics,LoseHome,62,64,10,Monday 9 June,New South Wales Swifts
+2008,Melbourne Vixens,LoseHome,49,62,13,Monday 30 June,New South Wales Swifts
+2008,West Coast Fever,LoseHome,54,63,14,Monday 7 July,New South Wales Swifts
+2008,Waikato Bay of Plenty Magic,LoseHome,56,57,15,Sunday 13 July,New South Wales Swifts
+2008,Waikato Bay of Plenty Magic,WinHome,56,52,2,Sunday 13 April,Northern Mystics
+2008,Queensland Firebirds,WinHome,46,40,4,Saturday 26 April,Northern Mystics
+2008,Southern Steel,LoseHome,48,50,5,Monday 5 May,Northern Mystics
+2008,Central Pulse,LoseHome,48,54,8,Monday 26 May,Northern Mystics
+2008,Melbourne Vixens,WinHome,56,47,14,Sunday 6 July,Northern Mystics
+2008,Melbourne Vixens,WinHome,62,52,2,Sunday 13 April,Queensland Firebirds
+2008,West Coast Fever,LoseHome,46,65,5,Saturday 3 May,Queensland Firebirds
+2008,Waikato Bay of Plenty Magic,WinHome,56,50,10,Sunday 8 June,Queensland Firebirds
+2008,New South Wales Swifts,WinHome,61,60,11,Sunday 15 June,Queensland Firebirds
+2008,Adelaide Thunderbirds,WinHome,66,47,13,Saturday 28 June,Queensland Firebirds
+2008,Southern Steel,WinHome,54,52,14,Sunday 6 July,Queensland Firebirds
+2008,New South Wales Swifts,WinHome,53,42,1,Monday 7 April,Southern Steel
+2008,Central Pulse,LoseHome,50,52,2,Monday 14 April,Southern Steel
+2008,Canterbury Tactix,LoseHome,42,51,3,Monday 21 April,Southern Steel
+2008,Adelaide Thunderbirds,WinHome,54,41,4,Sunday 27 April,Southern Steel
+2008,Waikato Bay of Plenty Magic,WinHome,56,47,7,Monday 19 May,Southern Steel
+2008,Northern Mystics,WinHome,47,41,12,Monday 23 June,Southern Steel
+2008,New South Wales Swifts,WinHome,50,47,3,Saturday 19 April,Waikato Bay of Plenty Magic
+2008,Northern Mystics,LoseHome,45,59,6,Monday 12 May,Waikato Bay of Plenty Magic
+2008,Canterbury Tactix,LoseHome,50,54,8,Saturday 24 May,Waikato Bay of Plenty Magic
+2008,Melbourne Vixens,WinHome,47,40,11,Monday 16 June,Waikato Bay of Plenty Magic
+2008,Central Pulse,LoseHome,41,46,12,Saturday 21 June,Waikato Bay of Plenty Magic
+2008,Southern Steel,WinHome,47,43,13,Monday 30 June,Waikato Bay of Plenty Magic
+2008,New South Wales Swifts,WinHome,65,56,17,Monday 28 July,Waikato Bay of Plenty Magic
+2008,Queensland Firebirds,WinHome,48,46,1,Sunday 6 April,West Coast Fever
+2008,Northern Mystics,LoseHome,45,49,3,Saturday 19 April,West Coast Fever
+2008,Waikato Bay of Plenty Magic,WinHome,61,47,4,Saturday 26 April,West Coast Fever
+2008,Adelaide Thunderbirds,WinHome,66,50,6,Monday 12 May,West Coast Fever
+2008,New South Wales Swifts,WinHome,66,54,7,Monday 19 May,West Coast Fever
+2008,Melbourne Vixens,WinHome,57,44,9,Sunday 1 June,West Coast Fever
+2008,Southern Steel,WinHome,58,43,11,Monday 16 June,West Coast Fever
+2009,Queensland Firebirds,LoseHome,48,60,1,Sunday 5 April,Adelaide Thunderbirds
+2009,Canterbury Tactix,LoseHome,48,53,4,Monday 27 April,Adelaide Thunderbirds
+2009,Melbourne Vixens,WinHome,50,42,5,Sunday 3 May,Adelaide Thunderbirds
+2009,New South Wales Swifts,LoseHome,40,51,6,Sunday 10 May,Adelaide Thunderbirds
+2009,West Coast Fever,LoseHome,41,61,9,Monday 1 June,Adelaide Thunderbirds
+2009,Southern Steel,WinHome,58,49,13,Monday 29 June,Adelaide Thunderbirds
+2009,Waikato Bay of Plenty Magic,LoseHome,37,51,16,Sunday 19 July,Adelaide Thunderbirds
+2009,Melbourne Vixens,WinHome,54,46,17,Sunday 26 July,Adelaide Thunderbirds
+2009,New South Wales Swifts,WinHome,62,45,1,Monday 6 April,Canterbury Tactix
+2009,Southern Steel,WinHome,52,48,3,Sunday 19 April,Canterbury Tactix
+2009,Northern Mystics,WinHome,47,46,9,Monday 1 June,Canterbury Tactix
+2009,Central Pulse,LoseHome,45,59,10,Saturday 6 June,Canterbury Tactix
+2009,Waikato Bay of Plenty Magic,WinHome,50,46,12,Monday 22 June,Canterbury Tactix
+2009,Melbourne Vixens,WinHome,63,35,13,Monday 29 June,Canterbury Tactix
+2009,Southern Steel,WinHome,55,46,1,Saturday 4 April,Central Pulse
+2009,Northern Mystics,WinHome,54,50,2,Sunday 12 April,Central Pulse
+2009,Waikato Bay of Plenty Magic,WinHome,59,36,6,Saturday 9 May,Central Pulse
+2009,Canterbury Tactix,WinHome,49,46,8,Saturday 23 May,Central Pulse
+2009,Adelaide Thunderbirds,WinHome,70,40,12,Saturday 20 June,Central Pulse
+2009,Melbourne Vixens,WinHome,80,39,14,Saturday 4 July,Central Pulse
+2009,Queensland Firebirds,LoseHome,51,54,2,Monday 13 April,Melbourne Vixens
+2009,Adelaide Thunderbirds,LoseHome,43,49,3,Sunday 19 April,Melbourne Vixens
+2009,West Coast Fever,LoseHome,49,74,7,Sunday 17 May,Melbourne Vixens
+2009,Waikato Bay of Plenty Magic,WinHome,55,48,10,Monday 8 June,Melbourne Vixens
+2009,New South Wales Swifts,LoseHome,52,63,11,Monday 15 June,Melbourne Vixens
+2009,Northern Mystics,LoseHome,57,61,12,Saturday 20 June,Melbourne Vixens
+2009,Adelaide Thunderbirds,WinHome,48,47,2,Sunday 12 April,New South Wales Swifts
+2009,Waikato Bay of Plenty Magic,WinHome,63,45,3,Monday 20 April,New South Wales Swifts
+2009,West Coast Fever,WinHome,67,66,5,Monday 4 May,New South Wales Swifts
+2009,Melbourne Vixens,WinHome,65,63,8,Monday 25 May,New South Wales Swifts
+2009,Queensland Firebirds,WinHome,62,61,10,Sunday 7 June,New South Wales Swifts
+2009,Central Pulse,WinHome,53,52,13,Sunday 28 June,New South Wales Swifts
+2009,Southern Steel,WinHome,55,48,14,Saturday 4 July,New South Wales Swifts
+2009,West Coast Fever,WinHome,57,46,3,Monday 20 April,Northern Mystics
+2009,New South Wales Swifts,WinHome,59,55,4,Monday 27 April,Northern Mystics
+2009,Central Pulse,LoseHome,60,61,5,Monday 4 May,Northern Mystics
+2009,Waikato Bay of Plenty Magic,WinHome,50,35,7,Monday 18 May,Northern Mystics
+2009,Adelaide Thunderbirds,WinHome,58,34,10,Saturday 6 June,Northern Mystics
+2009,Southern Steel,WinHome,52,50,11,Monday 15 June,Northern Mystics
+2009,Canterbury Tactix,WinHome,63,56,14,Monday 6 July,Northern Mystics
+2009,Central Pulse,LoseHome,46,58,3,Saturday 18 April,Queensland Firebirds
+2009,New South Wales Swifts,LoseHome,54,58,7,Monday 18 May,Queensland Firebirds
+2009,Adelaide Thunderbirds,WinHome,51,50,8,Sunday 24 May,Queensland Firebirds
+2009,Melbourne Vixens,WinHome,57,53,9,Sunday 31 May,Queensland Firebirds
+2009,Canterbury Tactix,WinHome,53,46,11,Saturday 13 June,Queensland Firebirds
+2009,Northern Mystics,LoseHome,57,59,13,Saturday 27 June,Queensland Firebirds
+2009,West Coast Fever,LoseHome,52,54,14,Monday 6 July,Queensland Firebirds
+2009,Waikato Bay of Plenty Magic,WinHome,54,47,2,Saturday 11 April,Southern Steel
+2009,Melbourne Vixens,WinHome,48,31,4,Saturday 25 April,Southern Steel
+2009,Northern Mystics,LoseHome,52,61,6,Monday 11 May,Southern Steel
+2009,Canterbury Tactix,LoseHome,47,48,7,Saturday 16 May,Southern Steel
+2009,Central Pulse,LoseHome,44,66,9,Saturday 30 May,Southern Steel
+2009,West Coast Fever,WinHome,59,48,10,Monday 8 June,Southern Steel
+2009,Queensland Firebirds,WinHome,52,50,12,Monday 22 June,Southern Steel
+2009,Adelaide Thunderbirds,WinHome,51,45,15,Monday 13 July,Southern Steel
+2009,Northern Mystics,LoseHome,38,51,1,Monday 6 April,Waikato Bay of Plenty Magic
+2009,Queensland Firebirds,WinHome,53,42,4,Sunday 26 April,Waikato Bay of Plenty Magic
+2009,Canterbury Tactix,LoseHome,48,50,5,Saturday 2 May,Waikato Bay of Plenty Magic
+2009,Southern Steel,LoseHome,39,48,8,Monday 25 May,Waikato Bay of Plenty Magic
+2009,Central Pulse,LoseHome,35,67,11,Sunday 14 June,Waikato Bay of Plenty Magic
+2009,West Coast Fever,LoseHome,38,49,13,Sunday 28 June,Waikato Bay of Plenty Magic
+2009,Adelaide Thunderbirds,WinHome,54,35,14,Sunday 5 July,Waikato Bay of Plenty Magic
+2009,Melbourne Vixens,WinHome,58,43,15,Sunday 12 July,Waikato Bay of Plenty Magic
+2009,Melbourne Vixens,WinHome,57,44,1,Saturday 4 April,West Coast Fever
+2009,Canterbury Tactix,WinHome,52,44,2,Monday 13 April,West Coast Fever
+2009,Central Pulse,LoseHome,54,60,4,Saturday 25 April,West Coast Fever
+2009,Queensland Firebirds,WinHome,56,53,6,Monday 11 May,West Coast Fever
+2009,Adelaide Thunderbirds,WinHome,58,39,11,Sunday 14 June,West Coast Fever
+2009,New South Wales Swifts,LoseHome,60,63,12,Sunday 21 June,West Coast Fever
+2010,Northern Mystics,WinHome,55,52,1,Saturday 20 March,Adelaide Thunderbirds
+2010,Queensland Firebirds,LoseHome,40,41,3,Sunday 4 April,Adelaide Thunderbirds
+2010,Central Pulse,LoseHome,40,75,5,Saturday 17 April,Adelaide Thunderbirds
+2010,West Coast Fever,LoseHome,37,57,6,Monday 26 April,Adelaide Thunderbirds
+2010,New South Wales Swifts,WinHome,60,44,8,Sunday 9 May,Adelaide Thunderbirds
+2010,Melbourne Vixens,LoseHome,43,54,12,Sunday 6 June,Adelaide Thunderbirds
+2010,Waikato Bay of Plenty Magic,WinHome,53,44,14,Saturday 19 June,Adelaide Thunderbirds
+2010,New South Wales Swifts,LoseHome,38,52,15,Sunday 27 June,Adelaide Thunderbirds
+2010,West Coast Fever,WinHome,62,44,2,Monday 29 March,Canterbury Tactix
+2010,Northern Mystics,WinHome,59,50,6,Saturday 24 April,Canterbury Tactix
+2010,Waikato Bay of Plenty Magic,WinHome,72,52,9,Saturday 15 May,Canterbury Tactix
+2010,Central Pulse,WinHome,45,43,10,Saturday 22 May,Canterbury Tactix
+2010,Adelaide Thunderbirds,WinHome,58,34,11,Sunday 30 May,Canterbury Tactix
+2010,Southern Steel,WinHome,53,39,12,Monday 7 June,Canterbury Tactix
+2010,Queensland Firebirds,WinHome,75,32,13,Monday 14 June,Canterbury Tactix
+2010,Canterbury Tactix,WinHome,54,48,1,Monday 22 March,Central Pulse
+2010,Southern Steel,WinHome,56,44,3,Monday 5 April,Central Pulse
+2010,New South Wales Swifts,WinHome,50,36,4,Saturday 10 April,Central Pulse
+2010,Waikato Bay of Plenty Magic,WinHome,56,44,8,Saturday 8 May,Central Pulse
+2010,Northern Mystics,WinHome,61,60,9,Monday 17 May,Central Pulse
+2010,West Coast Fever,WinHome,63,45,11,Monday 31 May,Central Pulse
+2010,Queensland Firebirds,WinHome,52,42,12,Saturday 5 June,Central Pulse
+2010,West Coast Fever,LoseHome,50,64,3,Monday 5 April,Melbourne Vixens
+2010,Canterbury Tactix,LoseHome,49,64,4,Monday 12 April,Melbourne Vixens
+2010,Queensland Firebirds,WinHome,62,41,6,Sunday 25 April,Melbourne Vixens
+2010,New South Wales Swifts,WinHome,56,42,7,Sunday 2 May,Melbourne Vixens
+2010,Adelaide Thunderbirds,WinHome,58,47,9,Sunday 16 May,Melbourne Vixens
+2010,Southern Steel,WinHome,52,39,11,Sunday 30 May,Melbourne Vixens
+2010,Central Pulse,LoseHome,48,49,14,Monday 21 June,Melbourne Vixens
+2010,Queensland Firebirds,LoseHome,47,50,1,Sunday 21 March,New South Wales Swifts
+2010,Adelaide Thunderbirds,LoseHome,38,45,2,Saturday 27 March,New South Wales Swifts
+2010,Canterbury Tactix,LoseHome,53,56,3,Sunday 4 April,New South Wales Swifts
+2010,West Coast Fever,LoseHome,52,61,10,Monday 24 May,New South Wales Swifts
+2010,Northern Mystics,LoseHome,48,54,11,Saturday 29 May,New South Wales Swifts
+2010,Melbourne Vixens,LoseHome,46,58,13,Saturday 12 June,New South Wales Swifts
+2010,Central Pulse,LoseHome,50,61,2,Saturday 27 March,Northern Mystics
+2010,Queensland Firebirds,WinHome,71,54,4,Monday 12 April,Northern Mystics
+2010,Melbourne Vixens,WinHome,62,51,5,Monday 19 April,Northern Mystics
+2010,Waikato Bay of Plenty Magic,WinHome,49,46,7,Monday 3 May,Northern Mystics
+2010,Southern Steel,LoseHome,49,52,8,Monday 10 May,Northern Mystics
+2010,Canterbury Tactix,LoseHome,47,58,14,Sunday 20 June,Northern Mystics
+2010,Melbourne Vixens,WinHome,53,46,2,Sunday 28 March,Queensland Firebirds
+2010,Southern Steel,LoseHome,41,56,5,Monday 19 April,Queensland Firebirds
+2010,New South Wales Swifts,WinHome,44,40,9,Monday 17 May,Queensland Firebirds
+2010,Adelaide Thunderbirds,WinHome,53,51,10,Sunday 23 May,Queensland Firebirds
+2010,Waikato Bay of Plenty Magic,LoseHome,54,55,11,Monday 31 May,Queensland Firebirds
+2010,West Coast Fever,WinHome,67,59,14,Sunday 20 June,Queensland Firebirds
+2010,Waikato Bay of Plenty Magic,WinHome,47,41,2,Monday 29 March,Southern Steel
+2010,Adelaide Thunderbirds,WinHome,53,36,4,Sunday 11 April,Southern Steel
+2010,Central Pulse,LoseHome,40,64,6,Monday 26 April,Southern Steel
+2010,Canterbury Tactix,LoseHome,38,66,7,Saturday 1 May,Southern Steel
+2010,Northern Mystics,LoseHome,43,50,13,Monday 14 June,Southern Steel
+2010,New South Wales Swifts,WinHome,55,38,14,Monday 21 June,Southern Steel
+2010,Waikato Bay of Plenty Magic,WinHome,50,42,15,Monday 28 June,Southern Steel
+2010,Melbourne Vixens,WinHome,48,40,1,Monday 22 March,Waikato Bay of Plenty Magic
+2010,Northern Mystics,LoseHome,46,55,3,Saturday 3 April,Waikato Bay of Plenty Magic
+2010,Canterbury Tactix,LoseHome,36,53,5,Sunday 18 April,Waikato Bay of Plenty Magic
+2010,Southern Steel,WinHome,52,47,10,Monday 24 May,Waikato Bay of Plenty Magic
+2010,New South Wales Swifts,WinHome,60,43,12,Monday 7 June,Waikato Bay of Plenty Magic
+2010,Central Pulse,LoseHome,52,58,13,Saturday 12 June,Waikato Bay of Plenty Magic
+2010,New South Wales Swifts,LoseHome,49,54,16,Sunday 4 July,Waikato Bay of Plenty Magic
+2010,Adelaide Thunderbirds,WinHome,52,42,17,Sunday 11 July,Waikato Bay of Plenty Magic
+2010,Southern Steel,WinHome,46,44,1,Sunday 21 March,West Coast Fever
+2010,Waikato Bay of Plenty Magic,WinHome,55,50,4,Saturday 10 April,West Coast Fever
+2010,New South Wales Swifts,WinHome,55,43,5,Sunday 18 April,West Coast Fever
+2010,Queensland Firebirds,WinHome,63,57,7,Monday 3 May,West Coast Fever
+2010,Melbourne Vixens,LoseHome,53,56,8,Monday 10 May,West Coast Fever
+2010,Northern Mystics,WinHome,62,53,12,Saturday 5 June,West Coast Fever
+2010,Adelaide Thunderbirds,WinHome,54,45,13,Sunday 13 June,West Coast Fever
+2011,New South Wales Swifts,WinHome,60,40,1,Sunday 13 February,Adelaide Thunderbirds
+2011,West Coast Fever,LoseHome,53,72,3,Thursday 24 February,Adelaide Thunderbirds
+2011,Queensland Firebirds,WinHome,64,41,3,Saturday 26 February,Adelaide Thunderbirds
+2011,Southern Steel,WinHome,52,48,7,Monday 28 March,Adelaide Thunderbirds
+2011,Canterbury Tactix,LoseHome,56,59,8,Sunday 3 April,Adelaide Thunderbirds
+2011,Melbourne Vixens,WinHome,55,53,9,Sunday 10 April,Adelaide Thunderbirds
+2011,New South Wales Swifts,WinHome,54,45,5,Monday 14 March,Canterbury Tactix
+2011,Central Pulse,WinHome,46,43,6,Sunday 20 March,Canterbury Tactix
+2011,Melbourne Vixens,WinHome,65,50,7,Sunday 27 March,Canterbury Tactix
+2011,Southern Steel,WinHome,49,40,9,Saturday 9 April,Canterbury Tactix
+2011,Waikato Bay of Plenty Magic,WinHome,53,49,10,Thursday 14 April,Canterbury Tactix
+2011,Northern Mystics,WinHome,62,43,11,Sunday 24 April,Canterbury Tactix
+2011,Adelaide Thunderbirds,WinHome,51,41,4,Saturday 5 March,Central Pulse
+2011,Southern Steel,WinHome,50,44,5,Monday 14 March,Central Pulse
+2011,Northern Mystics,WinHome,61,48,8,Saturday 2 April,Central Pulse
+2011,Canterbury Tactix,LoseHome,45,47,10,Monday 18 April,Central Pulse
+2011,Melbourne Vixens,WinHome,58,42,11,Saturday 23 April,Central Pulse
+2011,Waikato Bay of Plenty Magic,WinHome,60,50,12,Monday 2 May,Central Pulse
+2011,Adelaide Thunderbirds,LoseHome,47,65,2,Sunday 20 February,Melbourne Vixens
+2011,New South Wales Swifts,LoseHome,45,49,3,Sunday 27 February,Melbourne Vixens
+2011,Northern Mystics,WinHome,56,54,4,Sunday 6 March,Melbourne Vixens
+2011,Waikato Bay of Plenty Magic,WinHome,53,41,6,Monday 21 March,Melbourne Vixens
+2011,Queensland Firebirds,WinHome,57,36,10,Thursday 14 April,Melbourne Vixens
+2011,West Coast Fever,LoseHome,38,54,10,Sunday 17 April,Melbourne Vixens
+2011,Queensland Firebirds,WinHome,51,48,2,Monday 21 February,New South Wales Swifts
+2011,West Coast Fever,LoseHome,49,70,6,Thursday 17 March,New South Wales Swifts
+2011,Central Pulse,LoseHome,43,48,7,Sunday 27 March,New South Wales Swifts
+2011,Waikato Bay of Plenty Magic,LoseHome,46,53,9,Monday 11 April,New South Wales Swifts
+2011,Adelaide Thunderbirds,WinHome,57,53,10,Saturday 16 April,New South Wales Swifts
+2011,Southern Steel,LoseHome,39,40,11,Thursday 21 April,New South Wales Swifts
+2011,Melbourne Vixens,LoseHome,33,45,12,Sunday 1 May,New South Wales Swifts
+2011,Central Pulse,LoseHome,44,54,2,Saturday 19 February,Northern Mystics
+2011,Canterbury Tactix,LoseHome,45,58,3,Thursday 7 April,Northern Mystics
+2011,Waikato Bay of Plenty Magic,LoseHome,46,47,5,Sunday 13 March,Northern Mystics
+2011,Adelaide Thunderbirds,WinHome,57,55,6,Monday 21 March,Northern Mystics
+2011,West Coast Fever,LoseHome,54,56,9,Monday 11 April,Northern Mystics
+2011,New South Wales Swifts,WinHome,53,46,10,Monday 18 April,Northern Mystics
+2011,Southern Steel,LoseHome,35,47,12,Sunday 1 May,Northern Mystics
+2011,New South Wales Swifts,LoseHome,44,49,15,Sunday 8 May,Northern Mystics
+2011,Waikato Bay of Plenty Magic,LoseHome,42,43,16,Sunday 15 May,Northern Mystics
+2011,Queensland Firebirds,WinHome,57,44,17,Sunday 22 May,Northern Mystics
+2011,West Coast Fever,LoseHome,38,62,3,Monday 28 February,Queensland Firebirds
+2011,Adelaide Thunderbirds,LoseHome,42,64,5,Sunday 13 March,Queensland Firebirds
+2011,New South Wales Swifts,LoseHome,53,57,6,Sunday 20 March,Queensland Firebirds
+2011,Northern Mystics,LoseHome,52,61,7,Saturday 26 March,Queensland Firebirds
+2011,Melbourne Vixens,LoseHome,42,52,8,Thursday 31 March,Queensland Firebirds
+2011,Central Pulse,LoseHome,44,61,9,Sunday 10 April,Queensland Firebirds
+2011,Canterbury Tactix,LoseHome,52,69,12,Saturday 30 April,Queensland Firebirds
+2011,Northern Mystics,WinHome,51,34,1,Monday 14 February,Southern Steel
+2011,Waikato Bay of Plenty Magic,WinHome,51,36,2,Sunday 20 February,Southern Steel
+2011,Central Pulse,LoseHome,43,45,3,Saturday 26 February,Southern Steel
+2011,Queensland Firebirds,WinHome,51,36,4,Sunday 6 March,Southern Steel
+2011,West Coast Fever,WinHome,50,47,6,Saturday 19 March,Southern Steel
+2011,Canterbury Tactix,WinHome,49,44,8,Thursday 31 March,Southern Steel
+2011,Melbourne Vixens,WinHome,42,33,8,Sunday 3 April,Southern Steel
+2011,Northern Mystics,LoseHome,39,45,3,Thursday 24 February,Waikato Bay of Plenty Magic
+2011,Central Pulse,LoseHome,44,46,3,Monday 28 February,Waikato Bay of Plenty Magic
+2011,Canterbury Tactix,LoseHome,56,63,4,Monday 7 March,Waikato Bay of Plenty Magic
+2011,West Coast Fever,LoseHome,41,42,7,Monday 28 March,Waikato Bay of Plenty Magic
+2011,Queensland Firebirds,WinHome,53,49,8,Monday 4 April,Waikato Bay of Plenty Magic
+2011,Southern Steel,LoseHome,33,38,10,Sunday 17 April,Waikato Bay of Plenty Magic
+2011,Adelaide Thunderbirds,LoseHome,36,55,11,Sunday 24 April,Waikato Bay of Plenty Magic
+2011,Queensland Firebirds,WinHome,50,39,15,Monday 9 May,Waikato Bay of Plenty Magic
+2011,Canterbury Tactix,LoseHome,48,54,2,Monday 21 February,West Coast Fever
+2011,New South Wales Swifts,WinHome,55,51,4,Monday 7 March,West Coast Fever
+2011,Melbourne Vixens,WinHome,70,39,5,Saturday 12 March,West Coast Fever
+2011,Central Pulse,WinHome,63,61,8,Monday 4 April,West Coast Fever
+2011,Queensland Firebirds,WinHome,56,54,11,Monday 25 April,West Coast Fever
+2011,Adelaide Thunderbirds,LoseHome,59,64,12,Monday 2 May,West Coast Fever
+2012,Queensland Firebirds,LoseHome,44,54,2,Sunday 8 April,Adelaide Thunderbirds
+2012,Northern Mystics,LoseHome,48,50,4,Sunday 22 April,Adelaide Thunderbirds
+2012,West Coast Fever,LoseHome,36,48,5,Sunday 29 April,Adelaide Thunderbirds
+2012,Central Pulse,WinHome,47,46,8,Monday 21 May,Adelaide Thunderbirds
+2012,Melbourne Vixens,WinHome,48,40,10,Sunday 3 June,Adelaide Thunderbirds
+2012,New South Wales Swifts,LoseHome,35,62,12,Sunday 17 June,Adelaide Thunderbirds
+2012,Waikato Bay of Plenty Magic,WinHome,59,42,13,Saturday 23 June,Adelaide Thunderbirds
+2012,Waikato Bay of Plenty Magic,WinHome,49,48,15,Monday 9 July,Adelaide Thunderbirds
+2012,West Coast Fever,WinHome,55,35,1,Monday 2 April,Canterbury Tactix
+2012,Central Pulse,WinHome,50,45,4,Monday 23 April,Canterbury Tactix
+2012,Waikato Bay of Plenty Magic,WinHome,61,52,5,Monday 30 April,Canterbury Tactix
+2012,Queensland Firebirds,WinHome,64,48,7,Monday 14 May,Canterbury Tactix
+2012,Northern Mystics,WinHome,57,56,9,Sunday 27 May,Canterbury Tactix
+2012,Southern Steel,LoseHome,61,62,12,Monday 18 June,Canterbury Tactix
+2012,Adelaide Thunderbirds,WinHome,65,44,14,Sunday 1 July,Canterbury Tactix
+2012,Northern Mystics,WinHome,51,47,1,Sunday 1 April,Central Pulse
+2012,Queensland Firebirds,WinHome,58,32,3,Sunday 15 April,Central Pulse
+2012,New South Wales Swifts,WinHome,39,36,6,Sunday 6 May,Central Pulse
+2012,Southern Steel,LoseHome,50,58,9,Monday 28 May,Central Pulse
+2012,Canterbury Tactix,LoseHome,47,54,10,Sunday 3 June,Central Pulse
+2012,Waikato Bay of Plenty Magic,WinHome,52,42,11,Sunday 10 June,Central Pulse
+2012,West Coast Fever,WinHome,40,38,14,Sunday 1 July,Central Pulse
+2012,Queensland Firebirds,LoseHome,42,47,1,Sunday 1 April,Melbourne Vixens
+2012,West Coast Fever,LoseHome,41,50,2,Sunday 8 April,Melbourne Vixens
+2012,Adelaide Thunderbirds,LoseHome,34,48,3,Sunday 15 April,Melbourne Vixens
+2012,Canterbury Tactix,LoseHome,41,65,6,Monday 7 May,Melbourne Vixens
+2012,New South Wales Swifts,WinHome,55,52,7,Sunday 13 May,Melbourne Vixens
+2012,Central Pulse,LoseHome,41,49,13,Monday 25 June,Melbourne Vixens
+2012,Southern Steel,LoseHome,38,56,14,Saturday 30 June,Melbourne Vixens
+2012,Adelaide Thunderbirds,WinHome,57,40,1,Saturday 31 March,New South Wales Swifts
+2012,Canterbury Tactix,WinHome,54,51,2,Monday 9 April,New South Wales Swifts
+2012,Melbourne Vixens,LoseHome,43,49,9,Sunday 27 May,New South Wales Swifts
+2012,Queensland Firebirds,WinHome,50,45,10,Sunday 3 June,New South Wales Swifts
+2012,West Coast Fever,LoseHome,49,51,11,Sunday 10 June,New South Wales Swifts
+2012,Northern Mystics,WinHome,50,49,14,Sunday 1 July,New South Wales Swifts
+2012,Waikato Bay of Plenty Magic,LoseHome,41,47,2,Sunday 8 April,Northern Mystics
+2012,Central Pulse,LoseHome,47,51,5,Sunday 29 April,Northern Mystics
+2012,Queensland Firebirds,WinHome,56,43,6,Sunday 6 May,Northern Mystics
+2012,Southern Steel,LoseHome,45,49,7,Sunday 13 May,Northern Mystics
+2012,Melbourne Vixens,LoseHome,45,49,8,Sunday 20 May,Northern Mystics
+2012,Canterbury Tactix,LoseHome,55,64,13,Sunday 24 June,Northern Mystics
+2012,Melbourne Vixens,WinHome,56,50,15,Sunday 8 July,Northern Mystics
+2012,New South Wales Swifts,WinHome,54,49,4,Sunday 22 April,Queensland Firebirds
+2012,Melbourne Vixens,WinHome,52,51,5,Sunday 29 April,Queensland Firebirds
+2012,Southern Steel,LoseHome,60,61,8,Sunday 20 May,Queensland Firebirds
+2012,West Coast Fever,LoseHome,55,56,9,Sunday 27 May,Queensland Firebirds
+2012,Adelaide Thunderbirds,WinHome,54,49,11,Sunday 10 June,Queensland Firebirds
+2012,Waikato Bay of Plenty Magic,WinHome,53,43,14,Monday 2 July,Queensland Firebirds
+2012,Central Pulse,WinHome,47,42,2,Saturday 7 April,Southern Steel
+2012,Canterbury Tactix,LoseHome,53,55,3,Sunday 15 April,Southern Steel
+2012,Adelaide Thunderbirds,WinHome,58,48,6,Monday 7 May,Southern Steel
+2012,Waikato Bay of Plenty Magic,WinHome,66,47,10,Monday 4 June,Southern Steel
+2012,Northern Mystics,WinHome,60,49,11,Monday 11 June,Southern Steel
+2012,New South Wales Swifts,WinHome,55,42,13,Sunday 24 June,Southern Steel
+2012,Southern Steel,WinHome,49,47,1,Monday 2 April,Waikato Bay of Plenty Magic
+2012,New South Wales Swifts,WinHome,49,47,3,Monday 16 April,Waikato Bay of Plenty Magic
+2012,Melbourne Vixens,WinHome,40,39,4,Sunday 22 April,Waikato Bay of Plenty Magic
+2012,Central Pulse,LoseHome,46,56,7,Monday 14 May,Waikato Bay of Plenty Magic
+2012,Canterbury Tactix,LoseHome,42,65,8,Saturday 19 May,Waikato Bay of Plenty Magic
+2012,Northern Mystics,LoseHome,46,48,12,Sunday 17 June,Waikato Bay of Plenty Magic
+2012,Northern Mystics,LoseHome,48,57,16,Monday 16 July,Waikato Bay of Plenty Magic
+2012,Melbourne Vixens,LoseHome,38,41,17,Sunday 22 July,Waikato Bay of Plenty Magic
+2012,Northern Mystics,WinHome,52,45,3,Monday 16 April,West Coast Fever
+2012,Southern Steel,LoseHome,53,56,4,Saturday 21 April,West Coast Fever
+2012,Waikato Bay of Plenty Magic,WinHome,65,49,6,Sunday 6 May,West Coast Fever
+2012,Adelaide Thunderbirds,WinHome,60,43,7,Sunday 13 May,West Coast Fever
+2012,New South Wales Swifts,WinHome,52,47,8,Sunday 20 May,West Coast Fever
+2012,Melbourne Vixens,WinHome,50,49,12,Sunday 17 June,West Coast Fever
+2012,Queensland Firebirds,WinHome,63,43,13,Sunday 24 June,West Coast Fever
+2013,Melbourne Vixens,WinHome,58,44,2,Sunday 31 March,Adelaide Thunderbirds
+2013,Southern Steel,LoseHome,54,60,3,Saturday 6 April,Adelaide Thunderbirds
+2013,Queensland Firebirds,LoseHome,53,54,6,Sunday 28 April,Adelaide Thunderbirds
+2013,West Coast Fever,LoseHome,47,49,8,Sunday 12 May,Adelaide Thunderbirds
+2013,Canterbury Tactix,LoseHome,58,62,10,Monday 27 May,Adelaide Thunderbirds
+2013,New South Wales Swifts,LoseHome,43,46,11,Sunday 2 June,Adelaide Thunderbirds
+2013,Melbourne Vixens,WinHome,60,40,3,Monday 8 April,Canterbury Tactix
+2013,Waikato Bay of Plenty Magic,WinHome,65,45,5,Monday 22 April,Canterbury Tactix
+2013,Northern Mystics,LoseHome,57,61,7,Sunday 5 May,Canterbury Tactix
+2013,Southern Steel,WinHome,79,62,12,Sunday 9 June,Canterbury Tactix
+2013,Central Pulse,WinHome,73,59,13,Monday 17 June,Canterbury Tactix
+2013,New South Wales Swifts,WinHome,62,42,14,Monday 24 June,Canterbury Tactix
+2013,Adelaide Thunderbirds,WinHome,49,42,1,Sunday 24 March,Central Pulse
+2013,Northern Mystics,WinHome,69,68,5,Sunday 21 April,Central Pulse
+2013,Melbourne Vixens,WinHome,52,30,7,Sunday 5 May,Central Pulse
+2013,Waikato Bay of Plenty Magic,WinHome,53,49,8,Monday 13 May,Central Pulse
+2013,Canterbury Tactix,LoseHome,45,62,11,Monday 3 June,Central Pulse
+2013,Southern Steel,LoseHome,64,73,14,Sunday 23 June,Central Pulse
+2013,Northern Mystics,LoseHome,46,60,1,Monday 25 March,Melbourne Vixens
+2013,Adelaide Thunderbirds,WinHome,39,38,5,Sunday 21 April,Melbourne Vixens
+2013,West Coast Fever,LoseHome,49,58,6,Saturday 27 April,Melbourne Vixens
+2013,New South Wales Swifts,LoseHome,42,50,8,Sunday 12 May,Melbourne Vixens
+2013,Queensland Firebirds,LoseHome,47,53,11,Sunday 2 June,Melbourne Vixens
+2013,Waikato Bay of Plenty Magic,WinHome,56,51,13,Sunday 16 June,Melbourne Vixens
+2013,Adelaide Thunderbirds,WinHome,49,39,15,Sunday 30 June,Melbourne Vixens
+2013,Waikato Bay of Plenty Magic,WinHome,61,35,2,Sunday 31 March,New South Wales Swifts
+2013,Central Pulse,WinHome,55,49,3,Monday 8 April,New South Wales Swifts
+2013,West Coast Fever,WinHome,71,51,5,Sunday 21 April,New South Wales Swifts
+2013,Southern Steel,WinHome,60,55,7,Monday 6 May,New South Wales Swifts
+2013,Adelaide Thunderbirds,WinHome,50,48,9,Sunday 19 May,New South Wales Swifts
+2013,Melbourne Vixens,LoseHome,39,48,12,Saturday 8 June,New South Wales Swifts
+2013,Queensland Firebirds,WinHome,52,48,13,Sunday 16 June,New South Wales Swifts
+2013,West Coast Fever,WinHome,80,53,2,Sunday 31 March,Northern Mystics
+2013,Canterbury Tactix,WinHome,80,78,4,Monday 15 April,Northern Mystics
+2013,Southern Steel,WinHome,67,52,6,Monday 29 April,Northern Mystics
+2013,Central Pulse,WinHome,63,48,9,Monday 20 May,Northern Mystics
+2013,New South Wales Swifts,WinHome,63,44,10,Sunday 26 May,Northern Mystics
+2013,Adelaide Thunderbirds,WinHome,64,48,13,Sunday 16 June,Northern Mystics
+2013,Waikato Bay of Plenty Magic,WinHome,68,40,14,Monday 24 June,Northern Mystics
+2013,Central Pulse,LoseHome,56,58,2,Monday 1 April,Queensland Firebirds
+2013,Northern Mystics,LoseHome,51,72,3,Sunday 7 April,Queensland Firebirds
+2013,New South Wales Swifts,LoseHome,53,61,4,Monday 15 April,Queensland Firebirds
+2013,Canterbury Tactix,LoseHome,51,76,8,Saturday 11 May,Queensland Firebirds
+2013,Melbourne Vixens,LoseHome,46,57,9,Sunday 19 May,Queensland Firebirds
+2013,West Coast Fever,LoseHome,47,72,12,Sunday 9 June,Queensland Firebirds
+2013,Adelaide Thunderbirds,WinHome,54,52,14,Sunday 23 June,Queensland Firebirds
+2013,Waikato Bay of Plenty Magic,LoseHome,50,53,15,Monday 1 July,Queensland Firebirds
+2013,Melbourne Vixens,LoseHome,46,50,16,Sunday 7 July,Queensland Firebirds
+2013,Adelaide Thunderbirds,WinHome,50,48,17,Sunday 14 July,Queensland Firebirds
+2013,Queensland Firebirds,WinHome,68,59,1,Sunday 24 March,Southern Steel
+2013,Canterbury Tactix,LoseHome,56,75,2,Saturday 30 March,Southern Steel
+2013,Central Pulse,WinHome,59,56,4,Sunday 14 April,Southern Steel
+2013,Northern Mystics,LoseHome,63,73,8,Sunday 12 May,Southern Steel
+2013,Melbourne Vixens,WinHome,58,52,10,Monday 27 May,Southern Steel
+2013,Waikato Bay of Plenty Magic,WinHome,58,52,11,Sunday 2 June,Southern Steel
+2013,West Coast Fever,WinHome,68,56,13,Monday 17 June,Southern Steel
+2013,Canterbury Tactix,LoseHome,46,69,1,Sunday 24 March,Waikato Bay of Plenty Magic
+2013,West Coast Fever,WinHome,57,51,3,Sunday 7 April,Waikato Bay of Plenty Magic
+2013,Central Pulse,WinHome,53,52,6,Sunday 28 April,Waikato Bay of Plenty Magic
+2013,Adelaide Thunderbirds,WinHome,45,33,7,Monday 6 May,Waikato Bay of Plenty Magic
+2013,Southern Steel,WinHome,65,58,9,Saturday 18 May,Waikato Bay of Plenty Magic
+2013,Queensland Firebirds,LoseHome,62,65,10,Sunday 26 May,Waikato Bay of Plenty Magic
+2013,Northern Mystics,LoseHome,50,60,12,Monday 10 June,Waikato Bay of Plenty Magic
+2013,New South Wales Swifts,WinHome,55,41,1,Monday 25 March,West Coast Fever
+2013,Adelaide Thunderbirds,WinHome,72,46,4,Sunday 14 April,West Coast Fever
+2013,Queensland Firebirds,WinHome,63,54,7,Sunday 5 May,West Coast Fever
+2013,Canterbury Tactix,LoseHome,55,64,9,Sunday 19 May,West Coast Fever
+2013,Central Pulse,WinHome,53,52,10,Sunday 26 May,West Coast Fever
+2013,Melbourne Vixens,WinHome,69,39,14,Sunday 23 June,West Coast Fever
+2008,Adelaide Thunderbirds,LoseAway,42,46,1,Monday 7 April,Waikato Bay of Plenty Magic
+2008,Adelaide Thunderbirds,WinAway,54,41,2,Monday 14 April,West Coast Fever
+2008,Adelaide Thunderbirds,WinAway,39,38,3,Sunday 20 April,Melbourne Vixens
+2008,Adelaide Thunderbirds,WinAway,47,41,9,Monday 2 June,Queensland Firebirds
+2008,Adelaide Thunderbirds,WinAway,48,47,11,Saturday 14 June,Northern Mystics
+2008,Adelaide Thunderbirds,LoseAway,41,51,12,Monday 23 June,New South Wales Swifts
+2008,Adelaide Thunderbirds,WinAway,44,32,14,Monday 7 July,Central Pulse
+2008,Adelaide Thunderbirds,LoseAway,49,51,16,Monday 21 July,Waikato Bay of Plenty Magic
+2008,Canterbury Tactix,WinAway,48,44,1,Sunday 6 April,Northern Mystics
+2008,Canterbury Tactix,WinAway,51,48,6,Saturday 10 May,Southern Steel
+2008,Canterbury Tactix,WinAway,55,50,7,Saturday 17 May,Central Pulse
+2008,Canterbury Tactix,LoseAway,46,50,9,Monday 2 June,Northern Mystics
+2008,Canterbury Tactix,LoseAway,41,61,10,Sunday 8 June,Adelaide Thunderbirds
+2008,Canterbury Tactix,LoseAway,36,50,12,Sunday 22 June,Queensland Firebirds
+2008,Canterbury Tactix,LoseAway,44,50,13,Sunday 29 June,West Coast Fever
+2008,Canterbury Tactix,LoseAway,44,69,14,Saturday 5 July,Waikato Bay of Plenty Magic
+2008,Central Pulse,LoseAway,28,56,3,Monday 21 April,Queensland Firebirds
+2008,Central Pulse,LoseAway,30,59,4,Monday 28 April,New South Wales Swifts
+2008,Central Pulse,LoseAway,37,54,5,Saturday 3 May,Waikato Bay of Plenty Magic
+2008,Central Pulse,LoseAway,29,41,9,Saturday 31 May,Southern Steel
+2008,Central Pulse,LoseAway,0,0,10,Monday 9 June,West Coast Fever
+2008,Central Pulse,LoseAway,49,50,11,Sunday 15 June,Canterbury Tactix
+2008,Central Pulse,LoseAway,28,42,13,Saturday 28 June,Northern Mystics
+2008,Melbourne Vixens,WinAway,50,33,1,Saturday 5 April,Central Pulse
+2008,Melbourne Vixens,WinAway,58,50,4,Monday 28 April,Canterbury Tactix
+2008,Melbourne Vixens,WinAway,53,52,5,Monday 5 May,New South Wales Swifts
+2008,Melbourne Vixens,WinAway,52,46,7,Sunday 18 May,Adelaide Thunderbirds
+2008,Melbourne Vixens,LoseAway,51,60,8,Sunday 25 May,Queensland Firebirds
+2008,Melbourne Vixens,LoseAway,46,47,10,Saturday 7 June,Southern Steel
+2008,Melbourne Vixens,WinAway,54,48,12,Saturday 21 June,West Coast Fever
+2008,Melbourne Vixens,LoseAway,48,53,15,Monday 14 July,Adelaide Thunderbirds
+2008,New South Wales Swifts,LoseAway,44,50,2,Saturday 12 April,Canterbury Tactix
+2008,New South Wales Swifts,LoseAway,52,66,6,Saturday 10 May,Queensland Firebirds
+2008,New South Wales Swifts,WinAway,50,44,8,Monday 26 May,Adelaide Thunderbirds
+2008,New South Wales Swifts,WinAway,64,62,10,Monday 9 June,Northern Mystics
+2008,New South Wales Swifts,WinAway,62,49,13,Monday 30 June,Melbourne Vixens
+2008,New South Wales Swifts,WinAway,63,54,14,Monday 7 July,West Coast Fever
+2008,New South Wales Swifts,WinAway,57,56,15,Sunday 13 July,Waikato Bay of Plenty Magic
+2008,Northern Mystics,LoseAway,52,56,2,Sunday 13 April,Waikato Bay of Plenty Magic
+2008,Northern Mystics,LoseAway,40,46,4,Saturday 26 April,Queensland Firebirds
+2008,Northern Mystics,WinAway,50,48,5,Monday 5 May,Southern Steel
+2008,Northern Mystics,WinAway,54,48,8,Monday 26 May,Central Pulse
+2008,Northern Mystics,LoseAway,47,56,14,Sunday 6 July,Melbourne Vixens
+2008,Queensland Firebirds,LoseAway,52,62,2,Sunday 13 April,Melbourne Vixens
+2008,Queensland Firebirds,WinAway,65,46,5,Saturday 3 May,West Coast Fever
+2008,Queensland Firebirds,LoseAway,50,56,10,Sunday 8 June,Waikato Bay of Plenty Magic
+2008,Queensland Firebirds,LoseAway,60,61,11,Sunday 15 June,New South Wales Swifts
+2008,Queensland Firebirds,LoseAway,47,66,13,Saturday 28 June,Adelaide Thunderbirds
+2008,Queensland Firebirds,LoseAway,52,54,14,Sunday 6 July,Southern Steel
+2008,Southern Steel,LoseAway,42,53,1,Monday 7 April,New South Wales Swifts
+2008,Southern Steel,WinAway,52,50,2,Monday 14 April,Central Pulse
+2008,Southern Steel,WinAway,51,42,3,Monday 21 April,Canterbury Tactix
+2008,Southern Steel,LoseAway,41,54,4,Sunday 27 April,Adelaide Thunderbirds
+2008,Southern Steel,LoseAway,47,56,7,Monday 19 May,Waikato Bay of Plenty Magic
+2008,Southern Steel,LoseAway,41,47,12,Monday 23 June,Northern Mystics
+2008,Waikato Bay of Plenty Magic,LoseAway,47,50,3,Saturday 19 April,New South Wales Swifts
+2008,Waikato Bay of Plenty Magic,WinAway,59,45,6,Monday 12 May,Northern Mystics
+2008,Waikato Bay of Plenty Magic,WinAway,54,50,8,Saturday 24 May,Canterbury Tactix
+2008,Waikato Bay of Plenty Magic,LoseAway,40,47,11,Monday 16 June,Melbourne Vixens
+2008,Waikato Bay of Plenty Magic,WinAway,46,41,12,Saturday 21 June,Central Pulse
+2008,Waikato Bay of Plenty Magic,LoseAway,43,47,13,Monday 30 June,Southern Steel
+2008,Waikato Bay of Plenty Magic,LoseAway,56,65,17,Monday 28 July,New South Wales Swifts
+2008,West Coast Fever,LoseAway,46,48,1,Sunday 6 April,Queensland Firebirds
+2008,West Coast Fever,WinAway,49,45,3,Saturday 19 April,Northern Mystics
+2008,West Coast Fever,LoseAway,47,61,4,Saturday 26 April,Waikato Bay of Plenty Magic
+2008,West Coast Fever,LoseAway,50,66,6,Monday 12 May,Adelaide Thunderbirds
+2008,West Coast Fever,LoseAway,54,66,7,Monday 19 May,New South Wales Swifts
+2008,West Coast Fever,LoseAway,44,57,9,Sunday 1 June,Melbourne Vixens
+2008,West Coast Fever,LoseAway,43,58,11,Monday 16 June,Southern Steel
+2009,Adelaide Thunderbirds,WinAway,60,48,1,Sunday 5 April,Queensland Firebirds
+2009,Adelaide Thunderbirds,WinAway,53,48,4,Monday 27 April,Canterbury Tactix
+2009,Adelaide Thunderbirds,LoseAway,42,50,5,Sunday 3 May,Melbourne Vixens
+2009,Adelaide Thunderbirds,WinAway,51,40,6,Sunday 10 May,New South Wales Swifts
+2009,Adelaide Thunderbirds,WinAway,61,41,9,Monday 1 June,West Coast Fever
+2009,Adelaide Thunderbirds,LoseAway,49,58,13,Monday 29 June,Southern Steel
+2009,Adelaide Thunderbirds,WinAway,51,37,16,Sunday 19 July,Waikato Bay of Plenty Magic
+2009,Adelaide Thunderbirds,LoseAway,46,54,17,Sunday 26 July,Melbourne Vixens
+2009,Canterbury Tactix,LoseAway,45,62,1,Monday 6 April,New South Wales Swifts
+2009,Canterbury Tactix,LoseAway,48,52,3,Sunday 19 April,Southern Steel
+2009,Canterbury Tactix,LoseAway,46,47,9,Monday 1 June,Northern Mystics
+2009,Canterbury Tactix,WinAway,59,45,10,Saturday 6 June,Central Pulse
+2009,Canterbury Tactix,LoseAway,46,50,12,Monday 22 June,Waikato Bay of Plenty Magic
+2009,Canterbury Tactix,LoseAway,35,63,13,Monday 29 June,Melbourne Vixens
+2009,Central Pulse,LoseAway,46,55,1,Saturday 4 April,Southern Steel
+2009,Central Pulse,LoseAway,50,54,2,Sunday 12 April,Northern Mystics
+2009,Central Pulse,LoseAway,36,59,6,Saturday 9 May,Waikato Bay of Plenty Magic
+2009,Central Pulse,LoseAway,46,49,8,Saturday 23 May,Canterbury Tactix
+2009,Central Pulse,LoseAway,40,70,12,Saturday 20 June,Adelaide Thunderbirds
+2009,Central Pulse,LoseAway,39,80,14,Saturday 4 July,Melbourne Vixens
+2009,Melbourne Vixens,WinAway,54,51,2,Monday 13 April,Queensland Firebirds
+2009,Melbourne Vixens,WinAway,49,43,3,Sunday 19 April,Adelaide Thunderbirds
+2009,Melbourne Vixens,WinAway,74,49,7,Sunday 17 May,West Coast Fever
+2009,Melbourne Vixens,LoseAway,48,55,10,Monday 8 June,Waikato Bay of Plenty Magic
+2009,Melbourne Vixens,WinAway,63,52,11,Monday 15 June,New South Wales Swifts
+2009,Melbourne Vixens,WinAway,61,57,12,Saturday 20 June,Northern Mystics
+2009,New South Wales Swifts,LoseAway,47,48,2,Sunday 12 April,Adelaide Thunderbirds
+2009,New South Wales Swifts,LoseAway,45,63,3,Monday 20 April,Waikato Bay of Plenty Magic
+2009,New South Wales Swifts,LoseAway,66,67,5,Monday 4 May,West Coast Fever
+2009,New South Wales Swifts,LoseAway,63,65,8,Monday 25 May,Melbourne Vixens
+2009,New South Wales Swifts,LoseAway,61,62,10,Sunday 7 June,Queensland Firebirds
+2009,New South Wales Swifts,LoseAway,52,53,13,Sunday 28 June,Central Pulse
+2009,New South Wales Swifts,LoseAway,48,55,14,Saturday 4 July,Southern Steel
+2009,Northern Mystics,LoseAway,46,57,3,Monday 20 April,West Coast Fever
+2009,Northern Mystics,LoseAway,55,59,4,Monday 27 April,New South Wales Swifts
+2009,Northern Mystics,WinAway,61,60,5,Monday 4 May,Central Pulse
+2009,Northern Mystics,LoseAway,35,50,7,Monday 18 May,Waikato Bay of Plenty Magic
+2009,Northern Mystics,LoseAway,34,58,10,Saturday 6 June,Adelaide Thunderbirds
+2009,Northern Mystics,LoseAway,50,52,11,Monday 15 June,Southern Steel
+2009,Northern Mystics,LoseAway,56,63,14,Monday 6 July,Canterbury Tactix
+2009,Queensland Firebirds,WinAway,58,46,3,Saturday 18 April,Central Pulse
+2009,Queensland Firebirds,WinAway,58,54,7,Monday 18 May,New South Wales Swifts
+2009,Queensland Firebirds,LoseAway,50,51,8,Sunday 24 May,Adelaide Thunderbirds
+2009,Queensland Firebirds,LoseAway,53,57,9,Sunday 31 May,Melbourne Vixens
+2009,Queensland Firebirds,LoseAway,46,53,11,Saturday 13 June,Canterbury Tactix
+2009,Queensland Firebirds,WinAway,59,57,13,Saturday 27 June,Northern Mystics
+2009,Queensland Firebirds,WinAway,54,52,14,Monday 6 July,West Coast Fever
+2009,Southern Steel,LoseAway,47,54,2,Saturday 11 April,Waikato Bay of Plenty Magic
+2009,Southern Steel,LoseAway,31,48,4,Saturday 25 April,Melbourne Vixens
+2009,Southern Steel,WinAway,61,52,6,Monday 11 May,Northern Mystics
+2009,Southern Steel,WinAway,48,47,7,Saturday 16 May,Canterbury Tactix
+2009,Southern Steel,WinAway,66,44,9,Saturday 30 May,Central Pulse
+2009,Southern Steel,LoseAway,48,59,10,Monday 8 June,West Coast Fever
+2009,Southern Steel,LoseAway,50,52,12,Monday 22 June,Queensland Firebirds
+2009,Southern Steel,LoseAway,45,51,15,Monday 13 July,Adelaide Thunderbirds
+2009,Waikato Bay of Plenty Magic,WinAway,51,38,1,Monday 6 April,Northern Mystics
+2009,Waikato Bay of Plenty Magic,LoseAway,42,53,4,Sunday 26 April,Queensland Firebirds
+2009,Waikato Bay of Plenty Magic,WinAway,50,48,5,Saturday 2 May,Canterbury Tactix
+2009,Waikato Bay of Plenty Magic,WinAway,48,39,8,Monday 25 May,Southern Steel
+2009,Waikato Bay of Plenty Magic,WinAway,67,35,11,Sunday 14 June,Central Pulse
+2009,Waikato Bay of Plenty Magic,WinAway,49,38,13,Sunday 28 June,West Coast Fever
+2009,Waikato Bay of Plenty Magic,LoseAway,35,54,14,Sunday 5 July,Adelaide Thunderbirds
+2009,Waikato Bay of Plenty Magic,LoseAway,43,58,15,Sunday 12 July,Melbourne Vixens
+2009,West Coast Fever,LoseAway,44,57,1,Saturday 4 April,Melbourne Vixens
+2009,West Coast Fever,LoseAway,44,52,2,Monday 13 April,Canterbury Tactix
+2009,West Coast Fever,WinAway,60,54,4,Saturday 25 April,Central Pulse
+2009,West Coast Fever,LoseAway,53,56,6,Monday 11 May,Queensland Firebirds
+2009,West Coast Fever,LoseAway,39,58,11,Sunday 14 June,Adelaide Thunderbirds
+2009,West Coast Fever,WinAway,63,60,12,Sunday 21 June,New South Wales Swifts
+2010,Adelaide Thunderbirds,LoseAway,52,55,1,Saturday 20 March,Northern Mystics
+2010,Adelaide Thunderbirds,WinAway,41,40,3,Sunday 4 April,Queensland Firebirds
+2010,Adelaide Thunderbirds,WinAway,75,40,5,Saturday 17 April,Central Pulse
+2010,Adelaide Thunderbirds,WinAway,57,37,6,Monday 26 April,West Coast Fever
+2010,Adelaide Thunderbirds,LoseAway,44,60,8,Sunday 9 May,New South Wales Swifts
+2010,Adelaide Thunderbirds,WinAway,54,43,12,Sunday 6 June,Melbourne Vixens
+2010,Adelaide Thunderbirds,LoseAway,44,53,14,Saturday 19 June,Waikato Bay of Plenty Magic
+2010,Adelaide Thunderbirds,WinAway,52,38,15,Sunday 27 June,New South Wales Swifts
+2010,Canterbury Tactix,LoseAway,44,62,2,Monday 29 March,West Coast Fever
+2010,Canterbury Tactix,LoseAway,50,59,6,Saturday 24 April,Northern Mystics
+2010,Canterbury Tactix,LoseAway,52,72,9,Saturday 15 May,Waikato Bay of Plenty Magic
+2010,Canterbury Tactix,LoseAway,43,45,10,Saturday 22 May,Central Pulse
+2010,Canterbury Tactix,LoseAway,34,58,11,Sunday 30 May,Adelaide Thunderbirds
+2010,Canterbury Tactix,LoseAway,39,53,12,Monday 7 June,Southern Steel
+2010,Canterbury Tactix,LoseAway,32,75,13,Monday 14 June,Queensland Firebirds
+2010,Central Pulse,LoseAway,48,54,1,Monday 22 March,Canterbury Tactix
+2010,Central Pulse,LoseAway,44,56,3,Monday 5 April,Southern Steel
+2010,Central Pulse,LoseAway,36,50,4,Saturday 10 April,New South Wales Swifts
+2010,Central Pulse,LoseAway,44,56,8,Saturday 8 May,Waikato Bay of Plenty Magic
+2010,Central Pulse,LoseAway,60,61,9,Monday 17 May,Northern Mystics
+2010,Central Pulse,LoseAway,45,63,11,Monday 31 May,West Coast Fever
+2010,Central Pulse,LoseAway,42,52,12,Saturday 5 June,Queensland Firebirds
+2010,Melbourne Vixens,WinAway,64,50,3,Monday 5 April,West Coast Fever
+2010,Melbourne Vixens,WinAway,64,49,4,Monday 12 April,Canterbury Tactix
+2010,Melbourne Vixens,LoseAway,41,62,6,Sunday 25 April,Queensland Firebirds
+2010,Melbourne Vixens,LoseAway,42,56,7,Sunday 2 May,New South Wales Swifts
+2010,Melbourne Vixens,LoseAway,47,58,9,Sunday 16 May,Adelaide Thunderbirds
+2010,Melbourne Vixens,LoseAway,39,52,11,Sunday 30 May,Southern Steel
+2010,Melbourne Vixens,WinAway,49,48,14,Monday 21 June,Central Pulse
+2010,New South Wales Swifts,WinAway,50,47,1,Sunday 21 March,Queensland Firebirds
+2010,New South Wales Swifts,WinAway,45,38,2,Saturday 27 March,Adelaide Thunderbirds
+2010,New South Wales Swifts,WinAway,56,53,3,Sunday 4 April,Canterbury Tactix
+2010,New South Wales Swifts,WinAway,61,52,10,Monday 24 May,West Coast Fever
+2010,New South Wales Swifts,WinAway,54,48,11,Saturday 29 May,Northern Mystics
+2010,New South Wales Swifts,WinAway,58,46,13,Saturday 12 June,Melbourne Vixens
+2010,Northern Mystics,WinAway,61,50,2,Saturday 27 March,Central Pulse
+2010,Northern Mystics,LoseAway,54,71,4,Monday 12 April,Queensland Firebirds
+2010,Northern Mystics,LoseAway,51,62,5,Monday 19 April,Melbourne Vixens
+2010,Northern Mystics,LoseAway,46,49,7,Monday 3 May,Waikato Bay of Plenty Magic
+2010,Northern Mystics,WinAway,52,49,8,Monday 10 May,Southern Steel
+2010,Northern Mystics,WinAway,58,47,14,Sunday 20 June,Canterbury Tactix
+2010,Queensland Firebirds,LoseAway,46,53,2,Sunday 28 March,Melbourne Vixens
+2010,Queensland Firebirds,WinAway,56,41,5,Monday 19 April,Southern Steel
+2010,Queensland Firebirds,LoseAway,40,44,9,Monday 17 May,New South Wales Swifts
+2010,Queensland Firebirds,LoseAway,51,53,10,Sunday 23 May,Adelaide Thunderbirds
+2010,Queensland Firebirds,WinAway,55,54,11,Monday 31 May,Waikato Bay of Plenty Magic
+2010,Queensland Firebirds,LoseAway,59,67,14,Sunday 20 June,West Coast Fever
+2010,Southern Steel,LoseAway,41,47,2,Monday 29 March,Waikato Bay of Plenty Magic
+2010,Southern Steel,LoseAway,36,53,4,Sunday 11 April,Adelaide Thunderbirds
+2010,Southern Steel,WinAway,64,40,6,Monday 26 April,Central Pulse
+2010,Southern Steel,WinAway,66,38,7,Saturday 1 May,Canterbury Tactix
+2010,Southern Steel,WinAway,50,43,13,Monday 14 June,Northern Mystics
+2010,Southern Steel,LoseAway,38,55,14,Monday 21 June,New South Wales Swifts
+2010,Southern Steel,LoseAway,42,50,15,Monday 28 June,Waikato Bay of Plenty Magic
+2010,Waikato Bay of Plenty Magic,LoseAway,40,48,1,Monday 22 March,Melbourne Vixens
+2010,Waikato Bay of Plenty Magic,WinAway,55,46,3,Saturday 3 April,Northern Mystics
+2010,Waikato Bay of Plenty Magic,WinAway,53,36,5,Sunday 18 April,Canterbury Tactix
+2010,Waikato Bay of Plenty Magic,LoseAway,47,52,10,Monday 24 May,Southern Steel
+2010,Waikato Bay of Plenty Magic,LoseAway,43,60,12,Monday 7 June,New South Wales Swifts
+2010,Waikato Bay of Plenty Magic,WinAway,58,52,13,Saturday 12 June,Central Pulse
+2010,Waikato Bay of Plenty Magic,WinAway,54,49,16,Sunday 4 July,New South Wales Swifts
+2010,Waikato Bay of Plenty Magic,LoseAway,42,52,17,Sunday 11 July,Adelaide Thunderbirds
+2010,West Coast Fever,LoseAway,44,46,1,Sunday 21 March,Southern Steel
+2010,West Coast Fever,LoseAway,50,55,4,Saturday 10 April,Waikato Bay of Plenty Magic
+2010,West Coast Fever,LoseAway,43,55,5,Sunday 18 April,New South Wales Swifts
+2010,West Coast Fever,LoseAway,57,63,7,Monday 3 May,Queensland Firebirds
+2010,West Coast Fever,WinAway,56,53,8,Monday 10 May,Melbourne Vixens
+2010,West Coast Fever,LoseAway,53,62,12,Saturday 5 June,Northern Mystics
+2010,West Coast Fever,LoseAway,45,54,13,Sunday 13 June,Adelaide Thunderbirds
+2011,Adelaide Thunderbirds,LoseAway,40,60,1,Sunday 13 February,New South Wales Swifts
+2011,Adelaide Thunderbirds,WinAway,72,53,3,Thursday 24 February,West Coast Fever
+2011,Adelaide Thunderbirds,LoseAway,41,64,3,Saturday 26 February,Queensland Firebirds
+2011,Adelaide Thunderbirds,LoseAway,48,52,7,Monday 28 March,Southern Steel
+2011,Adelaide Thunderbirds,WinAway,59,56,8,Sunday 3 April,Canterbury Tactix
+2011,Adelaide Thunderbirds,LoseAway,53,55,9,Sunday 10 April,Melbourne Vixens
+2011,Canterbury Tactix,LoseAway,45,54,5,Monday 14 March,New South Wales Swifts
+2011,Canterbury Tactix,LoseAway,43,46,6,Sunday 20 March,Central Pulse
+2011,Canterbury Tactix,LoseAway,50,65,7,Sunday 27 March,Melbourne Vixens
+2011,Canterbury Tactix,LoseAway,40,49,9,Saturday 9 April,Southern Steel
+2011,Canterbury Tactix,LoseAway,49,53,10,Thursday 14 April,Waikato Bay of Plenty Magic
+2011,Canterbury Tactix,LoseAway,43,62,11,Sunday 24 April,Northern Mystics
+2011,Central Pulse,LoseAway,41,51,4,Saturday 5 March,Adelaide Thunderbirds
+2011,Central Pulse,LoseAway,44,50,5,Monday 14 March,Southern Steel
+2011,Central Pulse,LoseAway,48,61,8,Saturday 2 April,Northern Mystics
+2011,Central Pulse,WinAway,47,45,10,Monday 18 April,Canterbury Tactix
+2011,Central Pulse,LoseAway,42,58,11,Saturday 23 April,Melbourne Vixens
+2011,Central Pulse,LoseAway,50,60,12,Monday 2 May,Waikato Bay of Plenty Magic
+2011,Melbourne Vixens,WinAway,65,47,2,Sunday 20 February,Adelaide Thunderbirds
+2011,Melbourne Vixens,WinAway,49,45,3,Sunday 27 February,New South Wales Swifts
+2011,Melbourne Vixens,LoseAway,54,56,4,Sunday 6 March,Northern Mystics
+2011,Melbourne Vixens,LoseAway,41,53,6,Monday 21 March,Waikato Bay of Plenty Magic
+2011,Melbourne Vixens,LoseAway,36,57,10,Thursday 14 April,Queensland Firebirds
+2011,Melbourne Vixens,WinAway,54,38,10,Sunday 17 April,West Coast Fever
+2011,New South Wales Swifts,LoseAway,48,51,2,Monday 21 February,Queensland Firebirds
+2011,New South Wales Swifts,WinAway,70,49,6,Thursday 17 March,West Coast Fever
+2011,New South Wales Swifts,WinAway,48,43,7,Sunday 27 March,Central Pulse
+2011,New South Wales Swifts,WinAway,53,46,9,Monday 11 April,Waikato Bay of Plenty Magic
+2011,New South Wales Swifts,LoseAway,53,57,10,Saturday 16 April,Adelaide Thunderbirds
+2011,New South Wales Swifts,WinAway,40,39,11,Thursday 21 April,Southern Steel
+2011,New South Wales Swifts,WinAway,45,33,12,Sunday 1 May,Melbourne Vixens
+2011,Northern Mystics,WinAway,54,44,2,Saturday 19 February,Central Pulse
+2011,Northern Mystics,WinAway,58,45,3,Thursday 7 April,Canterbury Tactix
+2011,Northern Mystics,WinAway,47,46,5,Sunday 13 March,Waikato Bay of Plenty Magic
+2011,Northern Mystics,LoseAway,55,57,6,Monday 21 March,Adelaide Thunderbirds
+2011,Northern Mystics,WinAway,56,54,9,Monday 11 April,West Coast Fever
+2011,Northern Mystics,LoseAway,46,53,10,Monday 18 April,New South Wales Swifts
+2011,Northern Mystics,WinAway,47,35,12,Sunday 1 May,Southern Steel
+2011,Northern Mystics,WinAway,49,44,15,Sunday 8 May,New South Wales Swifts
+2011,Northern Mystics,WinAway,43,42,16,Sunday 15 May,Waikato Bay of Plenty Magic
+2011,Northern Mystics,LoseAway,44,57,17,Sunday 22 May,Queensland Firebirds
+2011,Queensland Firebirds,WinAway,62,38,3,Monday 28 February,West Coast Fever
+2011,Queensland Firebirds,WinAway,64,42,5,Sunday 13 March,Adelaide Thunderbirds
+2011,Queensland Firebirds,WinAway,57,53,6,Sunday 20 March,New South Wales Swifts
+2011,Queensland Firebirds,WinAway,61,52,7,Saturday 26 March,Northern Mystics
+2011,Queensland Firebirds,WinAway,52,42,8,Thursday 31 March,Melbourne Vixens
+2011,Queensland Firebirds,WinAway,61,44,9,Sunday 10 April,Central Pulse
+2011,Queensland Firebirds,WinAway,69,52,12,Saturday 30 April,Canterbury Tactix
+2011,Southern Steel,LoseAway,34,51,1,Monday 14 February,Northern Mystics
+2011,Southern Steel,LoseAway,36,51,2,Sunday 20 February,Waikato Bay of Plenty Magic
+2011,Southern Steel,WinAway,45,43,3,Saturday 26 February,Central Pulse
+2011,Southern Steel,LoseAway,36,51,4,Sunday 6 March,Queensland Firebirds
+2011,Southern Steel,LoseAway,47,50,6,Saturday 19 March,West Coast Fever
+2011,Southern Steel,LoseAway,44,49,8,Thursday 31 March,Canterbury Tactix
+2011,Southern Steel,LoseAway,33,42,8,Sunday 3 April,Melbourne Vixens
+2011,Waikato Bay of Plenty Magic,WinAway,45,39,3,Thursday 24 February,Northern Mystics
+2011,Waikato Bay of Plenty Magic,WinAway,46,44,3,Monday 28 February,Central Pulse
+2011,Waikato Bay of Plenty Magic,WinAway,63,56,4,Monday 7 March,Canterbury Tactix
+2011,Waikato Bay of Plenty Magic,WinAway,42,41,7,Monday 28 March,West Coast Fever
+2011,Waikato Bay of Plenty Magic,LoseAway,49,53,8,Monday 4 April,Queensland Firebirds
+2011,Waikato Bay of Plenty Magic,WinAway,38,33,10,Sunday 17 April,Southern Steel
+2011,Waikato Bay of Plenty Magic,WinAway,55,36,11,Sunday 24 April,Adelaide Thunderbirds
+2011,Waikato Bay of Plenty Magic,LoseAway,39,50,15,Monday 9 May,Queensland Firebirds
+2011,West Coast Fever,WinAway,54,48,2,Monday 21 February,Canterbury Tactix
+2011,West Coast Fever,LoseAway,51,55,4,Monday 7 March,New South Wales Swifts
+2011,West Coast Fever,LoseAway,39,70,5,Saturday 12 March,Melbourne Vixens
+2011,West Coast Fever,LoseAway,61,63,8,Monday 4 April,Central Pulse
+2011,West Coast Fever,LoseAway,54,56,11,Monday 25 April,Queensland Firebirds
+2011,West Coast Fever,WinAway,64,59,12,Monday 2 May,Adelaide Thunderbirds
+2012,Adelaide Thunderbirds,WinAway,54,44,2,Sunday 8 April,Queensland Firebirds
+2012,Adelaide Thunderbirds,WinAway,50,48,4,Sunday 22 April,Northern Mystics
+2012,Adelaide Thunderbirds,WinAway,48,36,5,Sunday 29 April,West Coast Fever
+2012,Adelaide Thunderbirds,LoseAway,46,47,8,Monday 21 May,Central Pulse
+2012,Adelaide Thunderbirds,LoseAway,40,48,10,Sunday 3 June,Melbourne Vixens
+2012,Adelaide Thunderbirds,WinAway,62,35,12,Sunday 17 June,New South Wales Swifts
+2012,Adelaide Thunderbirds,LoseAway,42,59,13,Saturday 23 June,Waikato Bay of Plenty Magic
+2012,Adelaide Thunderbirds,LoseAway,48,49,15,Monday 9 July,Waikato Bay of Plenty Magic
+2012,Canterbury Tactix,LoseAway,35,55,1,Monday 2 April,West Coast Fever
+2012,Canterbury Tactix,LoseAway,45,50,4,Monday 23 April,Central Pulse
+2012,Canterbury Tactix,LoseAway,52,61,5,Monday 30 April,Waikato Bay of Plenty Magic
+2012,Canterbury Tactix,LoseAway,48,64,7,Monday 14 May,Queensland Firebirds
+2012,Canterbury Tactix,LoseAway,56,57,9,Sunday 27 May,Northern Mystics
+2012,Canterbury Tactix,WinAway,62,61,12,Monday 18 June,Southern Steel
+2012,Canterbury Tactix,LoseAway,44,65,14,Sunday 1 July,Adelaide Thunderbirds
+2012,Central Pulse,LoseAway,47,51,1,Sunday 1 April,Northern Mystics
+2012,Central Pulse,LoseAway,32,58,3,Sunday 15 April,Queensland Firebirds
+2012,Central Pulse,LoseAway,36,39,6,Sunday 6 May,New South Wales Swifts
+2012,Central Pulse,WinAway,58,50,9,Monday 28 May,Southern Steel
+2012,Central Pulse,WinAway,54,47,10,Sunday 3 June,Canterbury Tactix
+2012,Central Pulse,LoseAway,42,52,11,Sunday 10 June,Waikato Bay of Plenty Magic
+2012,Central Pulse,LoseAway,38,40,14,Sunday 1 July,West Coast Fever
+2012,Melbourne Vixens,WinAway,47,42,1,Sunday 1 April,Queensland Firebirds
+2012,Melbourne Vixens,WinAway,50,41,2,Sunday 8 April,West Coast Fever
+2012,Melbourne Vixens,WinAway,48,34,3,Sunday 15 April,Adelaide Thunderbirds
+2012,Melbourne Vixens,WinAway,65,41,6,Monday 7 May,Canterbury Tactix
+2012,Melbourne Vixens,LoseAway,52,55,7,Sunday 13 May,New South Wales Swifts
+2012,Melbourne Vixens,WinAway,49,41,13,Monday 25 June,Central Pulse
+2012,Melbourne Vixens,WinAway,56,38,14,Saturday 30 June,Southern Steel
+2012,New South Wales Swifts,LoseAway,40,57,1,Saturday 31 March,Adelaide Thunderbirds
+2012,New South Wales Swifts,LoseAway,51,54,2,Monday 9 April,Canterbury Tactix
+2012,New South Wales Swifts,WinAway,49,43,9,Sunday 27 May,Melbourne Vixens
+2012,New South Wales Swifts,LoseAway,45,50,10,Sunday 3 June,Queensland Firebirds
+2012,New South Wales Swifts,WinAway,51,49,11,Sunday 10 June,West Coast Fever
+2012,New South Wales Swifts,LoseAway,49,50,14,Sunday 1 July,Northern Mystics
+2012,Northern Mystics,WinAway,47,41,2,Sunday 8 April,Waikato Bay of Plenty Magic
+2012,Northern Mystics,WinAway,51,47,5,Sunday 29 April,Central Pulse
+2012,Northern Mystics,LoseAway,43,56,6,Sunday 6 May,Queensland Firebirds
+2012,Northern Mystics,WinAway,49,45,7,Sunday 13 May,Southern Steel
+2012,Northern Mystics,WinAway,49,45,8,Sunday 20 May,Melbourne Vixens
+2012,Northern Mystics,WinAway,64,55,13,Sunday 24 June,Canterbury Tactix
+2012,Northern Mystics,LoseAway,50,56,15,Sunday 8 July,Melbourne Vixens
+2012,Queensland Firebirds,LoseAway,49,54,4,Sunday 22 April,New South Wales Swifts
+2012,Queensland Firebirds,LoseAway,51,52,5,Sunday 29 April,Melbourne Vixens
+2012,Queensland Firebirds,WinAway,61,60,8,Sunday 20 May,Southern Steel
+2012,Queensland Firebirds,WinAway,56,55,9,Sunday 27 May,West Coast Fever
+2012,Queensland Firebirds,LoseAway,49,54,11,Sunday 10 June,Adelaide Thunderbirds
+2012,Queensland Firebirds,LoseAway,43,53,14,Monday 2 July,Waikato Bay of Plenty Magic
+2012,Southern Steel,LoseAway,42,47,2,Saturday 7 April,Central Pulse
+2012,Southern Steel,WinAway,55,53,3,Sunday 15 April,Canterbury Tactix
+2012,Southern Steel,LoseAway,48,58,6,Monday 7 May,Adelaide Thunderbirds
+2012,Southern Steel,LoseAway,47,66,10,Monday 4 June,Waikato Bay of Plenty Magic
+2012,Southern Steel,LoseAway,49,60,11,Monday 11 June,Northern Mystics
+2012,Southern Steel,LoseAway,42,55,13,Sunday 24 June,New South Wales Swifts
+2012,Waikato Bay of Plenty Magic,LoseAway,47,49,1,Monday 2 April,Southern Steel
+2012,Waikato Bay of Plenty Magic,LoseAway,47,49,3,Monday 16 April,New South Wales Swifts
+2012,Waikato Bay of Plenty Magic,LoseAway,39,40,4,Sunday 22 April,Melbourne Vixens
+2012,Waikato Bay of Plenty Magic,WinAway,56,46,7,Monday 14 May,Central Pulse
+2012,Waikato Bay of Plenty Magic,WinAway,65,42,8,Saturday 19 May,Canterbury Tactix
+2012,Waikato Bay of Plenty Magic,WinAway,48,46,12,Sunday 17 June,Northern Mystics
+2012,Waikato Bay of Plenty Magic,WinAway,57,48,16,Monday 16 July,Northern Mystics
+2012,Waikato Bay of Plenty Magic,WinAway,41,38,17,Sunday 22 July,Melbourne Vixens
+2012,West Coast Fever,LoseAway,45,52,3,Monday 16 April,Northern Mystics
+2012,West Coast Fever,WinAway,56,53,4,Saturday 21 April,Southern Steel
+2012,West Coast Fever,LoseAway,49,65,6,Sunday 6 May,Waikato Bay of Plenty Magic
+2012,West Coast Fever,LoseAway,43,60,7,Sunday 13 May,Adelaide Thunderbirds
+2012,West Coast Fever,LoseAway,47,52,8,Sunday 20 May,New South Wales Swifts
+2012,West Coast Fever,LoseAway,49,50,12,Sunday 17 June,Melbourne Vixens
+2012,West Coast Fever,LoseAway,43,63,13,Sunday 24 June,Queensland Firebirds
+2013,Adelaide Thunderbirds,LoseAway,44,58,2,Sunday 31 March,Melbourne Vixens
+2013,Adelaide Thunderbirds,WinAway,60,54,3,Saturday 6 April,Southern Steel
+2013,Adelaide Thunderbirds,WinAway,54,53,6,Sunday 28 April,Queensland Firebirds
+2013,Adelaide Thunderbirds,WinAway,49,47,8,Sunday 12 May,West Coast Fever
+2013,Adelaide Thunderbirds,WinAway,62,58,10,Monday 27 May,Canterbury Tactix
+2013,Adelaide Thunderbirds,WinAway,46,43,11,Sunday 2 June,New South Wales Swifts
+2013,Canterbury Tactix,LoseAway,40,60,3,Monday 8 April,Melbourne Vixens
+2013,Canterbury Tactix,LoseAway,45,65,5,Monday 22 April,Waikato Bay of Plenty Magic
+2013,Canterbury Tactix,WinAway,61,57,7,Sunday 5 May,Northern Mystics
+2013,Canterbury Tactix,LoseAway,62,79,12,Sunday 9 June,Southern Steel
+2013,Canterbury Tactix,LoseAway,59,73,13,Monday 17 June,Central Pulse
+2013,Canterbury Tactix,LoseAway,42,62,14,Monday 24 June,New South Wales Swifts
+2013,Central Pulse,LoseAway,42,49,1,Sunday 24 March,Adelaide Thunderbirds
+2013,Central Pulse,LoseAway,68,69,5,Sunday 21 April,Northern Mystics
+2013,Central Pulse,LoseAway,30,52,7,Sunday 5 May,Melbourne Vixens
+2013,Central Pulse,LoseAway,49,53,8,Monday 13 May,Waikato Bay of Plenty Magic
+2013,Central Pulse,WinAway,62,45,11,Monday 3 June,Canterbury Tactix
+2013,Central Pulse,WinAway,73,64,14,Sunday 23 June,Southern Steel
+2013,Melbourne Vixens,WinAway,60,46,1,Monday 25 March,Northern Mystics
+2013,Melbourne Vixens,LoseAway,38,39,5,Sunday 21 April,Adelaide Thunderbirds
+2013,Melbourne Vixens,WinAway,58,49,6,Saturday 27 April,West Coast Fever
+2013,Melbourne Vixens,WinAway,50,42,8,Sunday 12 May,New South Wales Swifts
+2013,Melbourne Vixens,WinAway,53,47,11,Sunday 2 June,Queensland Firebirds
+2013,Melbourne Vixens,LoseAway,51,56,13,Sunday 16 June,Waikato Bay of Plenty Magic
+2013,Melbourne Vixens,LoseAway,39,49,15,Sunday 30 June,Adelaide Thunderbirds
+2013,New South Wales Swifts,LoseAway,35,61,2,Sunday 31 March,Waikato Bay of Plenty Magic
+2013,New South Wales Swifts,LoseAway,49,55,3,Monday 8 April,Central Pulse
+2013,New South Wales Swifts,LoseAway,51,71,5,Sunday 21 April,West Coast Fever
+2013,New South Wales Swifts,LoseAway,55,60,7,Monday 6 May,Southern Steel
+2013,New South Wales Swifts,LoseAway,48,50,9,Sunday 19 May,Adelaide Thunderbirds
+2013,New South Wales Swifts,WinAway,48,39,12,Saturday 8 June,Melbourne Vixens
+2013,New South Wales Swifts,LoseAway,48,52,13,Sunday 16 June,Queensland Firebirds
+2013,Northern Mystics,LoseAway,53,80,2,Sunday 31 March,West Coast Fever
+2013,Northern Mystics,LoseAway,78,80,4,Monday 15 April,Canterbury Tactix
+2013,Northern Mystics,LoseAway,52,67,6,Monday 29 April,Southern Steel
+2013,Northern Mystics,LoseAway,48,63,9,Monday 20 May,Central Pulse
+2013,Northern Mystics,LoseAway,44,63,10,Sunday 26 May,New South Wales Swifts
+2013,Northern Mystics,LoseAway,48,64,13,Sunday 16 June,Adelaide Thunderbirds
+2013,Northern Mystics,LoseAway,40,68,14,Monday 24 June,Waikato Bay of Plenty Magic
+2013,Queensland Firebirds,WinAway,58,56,2,Monday 1 April,Central Pulse
+2013,Queensland Firebirds,WinAway,72,51,3,Sunday 7 April,Northern Mystics
+2013,Queensland Firebirds,WinAway,61,53,4,Monday 15 April,New South Wales Swifts
+2013,Queensland Firebirds,WinAway,76,51,8,Saturday 11 May,Canterbury Tactix
+2013,Queensland Firebirds,WinAway,57,46,9,Sunday 19 May,Melbourne Vixens
+2013,Queensland Firebirds,WinAway,72,47,12,Sunday 9 June,West Coast Fever
+2013,Queensland Firebirds,LoseAway,52,54,14,Sunday 23 June,Adelaide Thunderbirds
+2013,Queensland Firebirds,WinAway,53,50,15,Monday 1 July,Waikato Bay of Plenty Magic
+2013,Queensland Firebirds,WinAway,50,46,16,Sunday 7 July,Melbourne Vixens
+2013,Queensland Firebirds,LoseAway,48,50,17,Sunday 14 July,Adelaide Thunderbirds
+2013,Southern Steel,LoseAway,59,68,1,Sunday 24 March,Queensland Firebirds
+2013,Southern Steel,WinAway,75,56,2,Saturday 30 March,Canterbury Tactix
+2013,Southern Steel,LoseAway,56,59,4,Sunday 14 April,Central Pulse
+2013,Southern Steel,WinAway,73,63,8,Sunday 12 May,Northern Mystics
+2013,Southern Steel,LoseAway,52,58,10,Monday 27 May,Melbourne Vixens
+2013,Southern Steel,LoseAway,52,58,11,Sunday 2 June,Waikato Bay of Plenty Magic
+2013,Southern Steel,LoseAway,56,68,13,Monday 17 June,West Coast Fever
+2013,Waikato Bay of Plenty Magic,WinAway,69,46,1,Sunday 24 March,Canterbury Tactix
+2013,Waikato Bay of Plenty Magic,LoseAway,51,57,3,Sunday 7 April,West Coast Fever
+2013,Waikato Bay of Plenty Magic,LoseAway,52,53,6,Sunday 28 April,Central Pulse
+2013,Waikato Bay of Plenty Magic,LoseAway,33,45,7,Monday 6 May,Adelaide Thunderbirds
+2013,Waikato Bay of Plenty Magic,LoseAway,58,65,9,Saturday 18 May,Southern Steel
+2013,Waikato Bay of Plenty Magic,WinAway,65,62,10,Sunday 26 May,Queensland Firebirds
+2013,Waikato Bay of Plenty Magic,WinAway,60,50,12,Monday 10 June,Northern Mystics
+2013,West Coast Fever,LoseAway,41,55,1,Monday 25 March,New South Wales Swifts
+2013,West Coast Fever,LoseAway,46,72,4,Sunday 14 April,Adelaide Thunderbirds
+2013,West Coast Fever,LoseAway,54,63,7,Sunday 5 May,Queensland Firebirds
+2013,West Coast Fever,WinAway,64,55,9,Sunday 19 May,Canterbury Tactix
+2013,West Coast Fever,LoseAway,52,53,10,Sunday 26 May,Central Pulse
+2013,West Coast Fever,LoseAway,39,69,14,Sunday 23 June,Melbourne Vixens

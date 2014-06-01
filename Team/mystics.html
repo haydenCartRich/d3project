@@ -1,0 +1,228 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <script type="text/javascript" src="../d3.min.js"></script>
+    <link rel="shortcut icon" href="/Images/icon.png">
+
+    <title>Theme Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap theme -->
+    <link href="/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="/bootstrap/css/theme.css" rel="stylesheet">
+
+    <body background="/Images/background.jpg" class="img-responsive" alt="Responsive image" bgproperties="fixed">
+  </head>
+  
+  <style>
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+
+  .bar {
+    fill: steelblue;
+  }
+
+  .x.axis path {
+    display: none;
+  }
+
+</style>
+
+  <body role="document">
+
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../index.html">ANZ Championship Stats</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="../index.html">Home</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Statistics by Teams<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li class="dropdown-header">New Zealand</li>
+                <li><a href="/Team/pulse.html">Central Pulse</a></li>
+                <li><a href="/Team/mystics.html">Northern Mystics</a></li>
+                <li><a href="/Team/magic.html">Waikato Bay of Plenty Magic</a></li>
+                <li><a href="/Team/steel.html">Southern Steel</a></li>
+                <li><a href="/Team/tactix.html">Canterbury Tactix</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Australia</li>
+                <li><a href="/Team/swifts.html">New South Wales Swifts</a></li>
+                <li><a href="/Team/thunderbirds.html">Adelaide Thunderbirds</a></li>
+                <li><a href="/Team/vixens.html">Melbourne Vixens</a></li>
+                <li><a href="/Team/fever.html">West Coast Fever</a></li>
+                <li><a href="/Team/firebirds.html">Queensland Firebirds</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    
+
+    <div class="container theme-showcase" role="main">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <h1>Northern Mystics</h1>
+        <p>About the Mystics...</p>
+      </div>
+
+      <div class="well">
+        <div class="row">
+        <h2>&ensp;Overall season placing (PLS UPDATE MEH)</h2>
+          <div class="col-sm-2">
+              <img src="/Images/Years/2008.png">
+              <img src="/Images/years/10th.png">
+          </div>
+          <div class="col-sm-2">
+              <img src="/Images/Years/2009.png">
+              <img src="/Images/years/10th.png">
+          </div>
+          <div class="col-sm-2">
+              <img src="/Images/Years/2010.png">
+              <img src="/Images/years/9th.png">
+          </div>
+          <div class="col-sm-2">
+              <img src="/Images/Years/2011.png">
+              <img src="/Images/years/8th.png">
+          </div>
+          <div class="col-sm-2">
+              <img src="/Images/Years/2012.png">
+              <img src="/Images/years/7th.png">
+          </div>
+          <div class="col-sm-2">
+              <img src="/Images/Years/2013.png">
+              <img src="/Images/years/5th.png">
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+    <script>
+
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var x = d3.scale.ordinal()
+    .rangeRoundBands([0, width], .1);
+
+var y = d3.scale.linear()
+    .rangeRound([height, 0]);
+
+var color = d3.scale.ordinal()
+    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    .tickFormat(d3.format(".2s"));
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+d3.csv("../data/mystics.csv", function(error, data) {
+  color.domain(d3.keys(data[0]).filter(function(key) { return key !== "State"; }));
+
+  data.forEach(function(d) {
+    var y0 = 0;
+    d.ages = color.domain().map(function(name) { return {name: name, y0: y0, y1: y0 += +d[name]}; });
+    d.total = d.ages[d.ages.length - 1].y1;
+  });
+
+  data.sort(function(a, b) { return b.total - a.total; });
+
+  x.domain(data.map(function(d) { return d.State; }));
+  y.domain([0, d3.max(data, function(d) { return d.total; })]);
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Population");
+
+  var state = svg.selectAll(".state")
+      .data(data)
+    .enter().append("g")
+      .attr("class", "g")
+      .attr("transform", function(d) { return "translate(" + x(d.State) + ",0)"; });
+
+  state.selectAll("rect")
+      .data(function(d) { return d.ages; })
+    .enter().append("rect")
+      .attr("width", x.rangeBand())
+      .attr("y", function(d) { return y(d.y1); })
+      .attr("height", function(d) { return y(d.y0) - y(d.y1); })
+      .style("fill", function(d) { return color(d.name); });
+
+  var legend = svg.selectAll(".legend")
+      .data(color.domain().slice().reverse())
+    .enter().append("g")
+      .attr("class", "legend")
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+  legend.append("rect")
+      .attr("x", width - 18)
+      .attr("width", 18)
+      .attr("height", 18)
+      .style("fill", color);
+
+  legend.append("text")
+      .attr("x", width - 24)
+      .attr("y", 9)
+      .attr("dy", ".35em")
+      .style("text-anchor", "end")
+      .text(function(d) { return d; });
+
+});
+
+</script>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/bootstrap/js/docs.min.js"></script>
+  </body>
+</html>
